@@ -1,5 +1,5 @@
 Hey Hey,
-Im Devon;I go by Badjia here, a software engineer and media buff in Warsaw
+Im Devon; i go by Badjia here, a software engineer and media buff in Warsaw
 
 I've decided to stop procratinating and made something out of my thoughts - yay?
 I currently work as a finantial anaylist at  [@JLL](https://www.jll.pl) but hope to enter my degree field soon.
