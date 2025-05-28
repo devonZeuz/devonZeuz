@@ -54,10 +54,3 @@ I currently work as a **Financial Analyst** at [**@JLL**](https://www.jll.pl) .I
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
-
----
-
-*"Turning caffeine into code, one commit at a time"* ☕💻
