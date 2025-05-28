@@ -4,7 +4,7 @@ I'm **Devon**; I go by **Badjia** here, a software engineer and media buff from 
 
 I've decided to stop procrastinating and made something out of my thoughts - so here we are!
 
-I currently work as a **Financial Analyst** at [**@JLL**](https://www.jll.pl) I previously worked at [**@Testronic**](https://www.testroniclabs.com)
+I currently work as a **Financial Analyst** at [**@JLL**](https://www.jll.pl) .I previously dabbled in game dev and worked at [**@Testronic**](https://www.testroniclabs.com)
 
 ---
 
